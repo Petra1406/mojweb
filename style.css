@@ -170,7 +170,7 @@
 }
 .kontakt h1 {
 	font-size: 24pt;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Noto Sans', sans-serif;
 	padding-bottom: 30px;
 }
 .kontakt input[type=text],
@@ -196,7 +196,7 @@
 }
 .kontakt ::placeholder {
 	font-size: 14pt;
-	font-family: 'Lobster', cursive;
+	font-family: ''Noto Sans', sans-serif;
 }
 /* ------ Kontakt / kraj ------ */
 
